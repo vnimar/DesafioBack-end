@@ -5,7 +5,7 @@ API RESTful desenvolvida como parte do processo seletivo para desenvolvedor back
 ## 🚀 Tecnologias Utilizadas
 
 - **Java 8** (projeto configurado com compatibilidade para Java 8)
-- **Spring Boot 3.3.5**
+- **Spring Boot 4.0.6**
 - **Spring Data JPA** (Hibernate)
 - **Spring Security** (autenticação Basic)
 - **Maven**
